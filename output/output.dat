@@ -1,0 +1,11 @@
+
+ FES - Finite Element Solver 
+ MATLAB version 3/23/2015 
+ v2 mixed brick 8 element is added: 04/25/2015 
+ v2 bug how to calculate deformation gradient: 04/21/2015 
+ v2 1 point integration is added: 04/20/2015 
+ 
+ STEP:     1
+Iter:   1 	 r: 1.60e+04 	 N(r): 1.00e+00 	 time: 1.64e-01 
+Iter:   2 	 r: 4.42e-01 	 N(r): 2.76e-05 	 time: 3.55e-01 
+Iter:   3 	 r: 1.91e-04 	 N(r): 1.19e-08 	 time: 7.22e-01 
